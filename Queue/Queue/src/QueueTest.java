@@ -1,7 +1,8 @@
 
 
 
-class LinearQueue{//this class will be based on array and uses single pointer for the last element
+class LinearQueue{
+    //this class will be based on array and uses single pointer for the last element
     private int[] arr;
     private int size;
     private int last_ptr;
